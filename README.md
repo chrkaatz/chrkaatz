@@ -9,6 +9,7 @@ I am Christian
 
 ![chrkaatz' GitHub stats](https://github-readme-stats.vercel.app/api?username=chrkaatz&count_private=true&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrkaatz&layout=compact)
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrkaatz&layout=compact)
 
 
 #### DigitalService
