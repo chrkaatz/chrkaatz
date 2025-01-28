@@ -2,7 +2,8 @@
 
 I am Christian
 
-- 🔭 I’m currently working on digitalization in Germany with a very talented team at [DigitalService GmbH des Bundes](https://digitalservice.bund.de)
+- Currently working at [KoSyMa](https://github.com/kosyma-io) as CTO on Healthcare related projects like TI Messenger
+- 🔭 I had been working on digitalization in Germany with a very talented team at [DigitalService GmbH des Bundes](https://digitalservice.bund.de)
 - 💬 Ask me about js, node, architecture, team building
 
 #### Stats
@@ -11,10 +12,6 @@ I am Christian
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrkaatz&layout=compact)
 ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=chrkaatz&layout=compact)
 
-
-#### DigitalService
-
-[![digitalservicebund](https://github-readme-stats.vercel.app/api/pin/?username=digitalservicebund&repo=digitalservicebund.github.io)](https://github.com/digitalservicebund/digitalservicebund.github.io)
 
 <!--
 **chrkaatz/chrkaatz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
